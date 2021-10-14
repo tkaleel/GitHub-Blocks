@@ -1,0 +1,43 @@
+h1{
+    text-align: center;
+    font-family: 'Londrina Solid', cursive;
+    color: darkorange;
+    font-size: 50px;
+}
+
+div{
+    padding:15px;
+    margin:15px;
+    font-family: 'Roboto', sans-serif;
+}
+
+img{
+    height:200px;
+}
+
+.container{
+    width:950px;
+    height:300px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+
+}
+
+#header{
+    height:fit-content;
+}
+
+#top{
+    background-color: darkorange;
+
+}
+
+#middle{
+
+    background-color: rgb(32, 32, 32);
+}
+
+#bottom{
+    background-color:darkorange;
+}
